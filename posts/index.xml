@@ -13,7 +13,7 @@
       <link>https://dhurv21.github.io/posts/first/</link>
       <pubDate>Tue, 17 Mar 2026 18:42:30 +0530</pubDate>
       <guid>https://dhurv21.github.io/posts/first/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;githubhugo&#34;&gt;Github&amp;amp;Hugo&lt;/h1&gt;&#xA;&lt;p&gt;I think the setting up the whole reflection blog website was fun. It was moderately challenging and I feel having a reflection blog where you update about life is so &lt;em&gt;introspective&lt;/em&gt; and also gives you with something to look upon later.&#xA;Also, I had to help my groupmates quite a lot. I think this is because they have never troubleshooted before and tried reading documentation to figure out solutions.&#xA;However, they got it when I pinpointed the issue. Most of them either didn&amp;rsquo;t update their baseURL or mention the theme specifically in hugo.toml file.&#xA;What I found interesting was showing them how to approach the problem rather than just giving solution. By guiding them to read through the documentation and find relevant content for deploying the site, then they were atleast able to put their head to it and make progress.&#xA;Personally, I did not find the whole thingy very difficult from a technical perspective. However, debugging and navigating through the documentation was nice, and helped&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
