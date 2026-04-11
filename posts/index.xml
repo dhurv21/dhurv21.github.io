@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 18:42:30 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 18:42:30 +0530</lastBuildDate>
     <atom:link href="https://dhurv21.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://dhurv21.github.io/posts/postoffice/</link>
+      <pubDate>Fri, 03 Apr 2026 18:42:30 +0530</pubDate>
+      <guid>https://dhurv21.github.io/posts/postoffice/</guid>
+      <description>&lt;h1 id=&#34;failure-wiki&#34;&gt;Failure Wiki&lt;/h1&gt;&#xA;&lt;p&gt;Reading about the post office scandal which happened in the UK due to technical glitches caused by software called &amp;lsquo;Horizon&amp;rsquo;, developed by the Japanese company Fujitsu, led to one of the most devastating institutional failures.&lt;/p&gt;&#xA;&lt;p&gt;This scandal made me realise how comfort or ignorance of something can lead to disastrous outcomes. Unfortunately, over a thousand sub-postmasters were wrongfully prosecuted and some even comitted the suicide. People placing their comfort in the assumption that technology is always accurate is vastly the reason why these events happened in the first place.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second Post</title>
       <link>https://dhurv21.github.io/posts/second/</link>
